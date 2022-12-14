@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Testes_xUnit\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.genruntimeconfig.cache
